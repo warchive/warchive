@@ -34,3 +34,6 @@
 | [wcosa-test]             | NO                    | waterloop/wcosa-test               |
 | [s18-software-challenge] | NO                    | waterloop/s18-software-challenge   |
 
+### When was a repository archived?
+Every archived repository MUST have a ARCHIVE.md file that tells us the date it was archived.
+Incase we ever need to find time critical data based on when a repository was archived, this will come in handy.
